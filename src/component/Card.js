@@ -15,7 +15,6 @@ const Card = (props) => {
                     <li>Population : {numberFormat(country.population)} </li> 
                 </ul>
             </div>
-            
         </li>
     );
 };
